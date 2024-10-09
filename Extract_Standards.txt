@@ -1,0 +1,16 @@
+[ {
+  "description" : "Exceeds Mastery",
+  "points" : 4.0
+}, {
+  "description" : "Mastery",
+  "points" : 3.0
+}, {
+  "description" : "Near Mastery",
+  "points" : 2.0
+}, {
+  "description" : "Below Mastery",
+  "points" : 1.0
+}, {
+  "description" : "No Evidence",
+  "points" : 0.0
+} ]

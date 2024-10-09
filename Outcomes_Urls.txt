@@ -1,0 +1,10 @@
+Main URL: /api/v1/courses/1341513/outcome_groups/1614130/outcomes/2001304
+Subgroups URL: /api/v1/courses/1341513/outcome_groups/1614130/subgroups
+Outcomes URL: /api/v1/courses/1341513/outcome_groups/1614130/outcomes
+State_Standard_URL: /api/v1/outcomes/2001304
+
+Main URL: /api/v1/courses/1341513/outcome_groups/1614130/outcomes/2001242
+Subgroups URL: /api/v1/courses/1341513/outcome_groups/1614130/subgroups
+Outcomes URL: /api/v1/courses/1341513/outcome_groups/1614130/outcomes
+State_Standard_URL: /api/v1/outcomes/2001242
+
